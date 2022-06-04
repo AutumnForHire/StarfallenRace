@@ -1,0 +1,4 @@
+displayName = Starfallen Race Mod
+author = AutumnForHire
+modReferences = MrPlagueRaces
+version = 0.1.1
